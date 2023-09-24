@@ -1,0 +1,17 @@
+# Common
+node_modules
+build
+.lock-wscript
+.npm
+
+# Nuxt.JS
+.nuxt
+dist
+
+# Next.js
+.next
+out
+
+# Vue.js
+.temp
+.cache
